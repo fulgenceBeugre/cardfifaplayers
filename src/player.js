@@ -43,8 +43,9 @@ Player.defaultProps = {
   team: "Équipe inconnue",
   nationality: "Nationnalité inconnue",
   jerseyNumber: 0,
-  age: 25,
-  image: "https://via.placeholder.com/150",
+  age: 20,
+  image:
+    "https://contents.mediadecathlon.com/p2307094/k$8af5227b499d3006c8301849f8b48f55/1920x0/1586pt1586/3171xcr1784/ballonclubligue1.jpg?format=auto",
 };
 
 export default Player;
